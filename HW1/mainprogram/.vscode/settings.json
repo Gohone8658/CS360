@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "functions.h": "c",
+        "limits.h": "c"
+    }
+}
