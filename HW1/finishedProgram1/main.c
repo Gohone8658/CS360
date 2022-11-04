@@ -140,7 +140,7 @@ int main(int argc, char **argv){
         }
         free(previousWord);
     }
-    fileIndex = 0; //reset fileIndex for "closeing filestreams for-loop"
+    fileIndex = 0; //reset fileIndex for "closing filestreams for-loop"
 
     for(fileIndex; fileIndex < filesToLoad; fileIndex++){
         fclose(file[fileIndex]);
